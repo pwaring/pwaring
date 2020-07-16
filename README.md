@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a freelance PHP developer and Linux system administrator based in Manchester, UK.
+
 <!--
 **pwaring/pwaring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
